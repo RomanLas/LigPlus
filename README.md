@@ -1,4 +1,5 @@
-# LigPlus
+# LigPlot+
+
 LigPlot<SUP>+</SUP> is a Java application for the automatic generation and onscreen editing of 2D ligand-protein interaction diagrams for a given PDB file.
 
 It is a Java application that allows on-screen editing of the plots via mouse click-and-drag operations.
@@ -16,7 +17,7 @@ Additionally, the program includes several major enhancements over the old versi
 To install, download the following files:
 
 <UL>
-  <LI><B>LigPlus.zip</B> - Program files
+  <LI><B>LigPlus.tar.gz</B> - Program files
   <LI><B>docs.tar.gz</B> - documentation
 </UL>
 
@@ -26,5 +27,5 @@ Extract all the files from <B>docs.tar.gz</B> and then follow the instructions i
 
 <H4>Reference</H4>
 
-Laskowski R A, Swindells M B (2011). LigPlot+: multiple ligand-protein interaction diagrams for drug discovery. <I>J. Chem. Inf. Model.</I>, <B>51</B>, 2778-2786. [PubMed id: 21919503]
+Laskowski R A, Swindells M B (2011). LigPlot+: multiple ligand-protein interaction diagrams for drug discovery. J. Chem. Inf. Model., 51, 2778-2786. [PubMed id: 21919503]
 
